@@ -1,7 +1,7 @@
 # To-Do List Project
 
 ## Project Description
-To-Do List Project is an interactive To-Do list started by Dr. Susan Rodger in the Duke University's course: Programming Foundations with JavaScript, HTNL, and CSS. The Project was initialized
+To-Do List Project is an interactive To-Do list started by Dr. Susan Rodger in the Duke University's course: Programming Foundations with JavaScript, HTML, and CSS. The Project was initialized
 with some pre-written JS, HTML, and CSS and was modified by me on CodePen as part of the Programming Excercise.
 
 ## Modifications By Me
